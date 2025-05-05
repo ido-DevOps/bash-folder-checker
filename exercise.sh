@@ -8,7 +8,7 @@
 echo "Hostname: $(hostname)"
 echo "Date:     $(date)"
 echo "Files in $(pwd):"
-exit
+exit 1
 ls -lah
 
 
