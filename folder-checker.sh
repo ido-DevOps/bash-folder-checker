@@ -9,4 +9,5 @@ else
 
    mkdir "$folder_name"
    echo "the folder '$folder_name' have been crated successfully"
+Exit!
 fi
